@@ -57,7 +57,6 @@
 
 <h1>🐾 แมวส้มขนสั่น 🐾</h1>
 <div style="position: relative; display: inline-block;">
-<img src="https://i.imgur.com/ydNO6lC.png" alt="แมวส้ม" class="cat" id="cat">
 </div>
 <div class="message" id="message"></div>
 <div class="counter" id="counter">กดแล้ว: 0 ครั้ง</div>
